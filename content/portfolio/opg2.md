@@ -1,9 +1,7 @@
 ---
 title: "Tournament 2"
 date: 2018-01-31T20:32:18+01:00
-
 tags: ["scene"]
-draft: true
 ---
 
 ![I lost again](../img/why.jpg)

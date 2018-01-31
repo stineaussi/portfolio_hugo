@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://anderssondressage.dk/kea/portfolio_hugo/portfolio/opg3/</loc>
+    <lastmod>2018-01-31T20:32:36+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://anderssondressage.dk/kea/portfolio_hugo/portfolio/opg2/</loc>
+    <lastmod>2018-01-31T20:32:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://anderssondressage.dk/kea/portfolio_hugo/portfolio/opg1/</loc>
+    <lastmod>2018-01-31T20:31:59+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://anderssondressage.dk/kea/portfolio_hugo/contact/</loc>
+    <lastmod>2018-01-31T14:45:19+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://anderssondressage.dk/kea/portfolio_hugo/portfolio/</loc>
+    <lastmod>2018-01-31T13:44:03+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://anderssondressage.dk/kea/portfolio_hugo/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://anderssondressage.dk/kea/portfolio_hugo/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anderssondressage.dk/kea/portfolio_hugo/</loc>
+    <lastmod>2018-01-31T20:32:36+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://anderssondressage.dk/kea/portfolio_hugo/tags/scene/</loc>
+    <lastmod>2018-01-31T20:32:36+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://anderssondressage.dk/kea/portfolio_hugo/tags/</loc>
+    <lastmod>2018-01-31T20:32:36+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

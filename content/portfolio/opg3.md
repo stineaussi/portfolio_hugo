@@ -3,7 +3,6 @@ title: "Tournament 3"
 date: 2018-01-31T20:32:36+01:00
 description: "The Grand Hall"
 tags: ["scene"]
-draft: true
 ---
 
 ![I won](../img/win.jpg)

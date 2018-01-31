@@ -1,7 +1,6 @@
 ---
 title: "My first tournament"
 date: 2018-01-31T20:31:59+01:00
-draft: true
 description: "Grand bowling"
 tags: ["scene"]
 ---

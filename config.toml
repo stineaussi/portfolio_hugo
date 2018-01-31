@@ -2,6 +2,8 @@
 title = "Forside"
 languageCode = "en-us"
 theme = "Ananke"
+baseURL = "http://anderssondressage.dk/kea/portfolio_hugo"
+publishDir = "docs"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -25,3 +27,21 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/imag/kugler.jpg"
   recent_posts_number = 2
+  
+  [[menu.main]]
+name                   = "About"
+weight                 = 1
+identifier             = "about"
+url                    = "/about/"
+
+[[menu.main]]
+name                   = "Portfolio"
+weight                 = 2
+identifier             = "portfolio"
+url                    = "/portfolio/"
+
+[[menu.main]]
+name                   = "Contact"
+weight                 = 3
+identifier             = "contact"
+url                    = "/contact/"

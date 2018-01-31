@@ -1,7 +1,6 @@
 ---
 title: "Portfolio"
 date: 2018-01-31T13:44:03+01:00
-draft: true
 description: "Her can you read about all my turnaments."
 featured_image: '/imag/hus.jpg'
 ---
